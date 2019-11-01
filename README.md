@@ -13,25 +13,25 @@
 
 ### Nether Fortresses
 
-| LOCATION                             | X   | Y   | Z   |
-| ------------------------------------ | --- | --- | --- |
-| Village Entrance                     | ?   | ?   | ?   |
-| Tunnel to TGDKeywi's Mushroom Island | 83  | 78  | 650 |
+| LOCATION                     | X   | Y   | Z   |
+| ---------------------------- | --- | --- | --- |
+| Village Entrance             | 156 | 77  | 46  |
+| Tunnel to TGDMushroom Island | 83  | 78  | 650 |
 
 [^ Top]
 
 ### Nether Portals
 
-|  LOCATION | SUBLOCATION |   X   |  Y  |  Z   |
-| --------: | ----------: | :---: | :-: | :--: |
+|  LOCATION |        SUBLOCATION |   X   |  Y  |  Z   |
+| --------: | -----------------: | :---: | :-: | :--: |
 | Overworld |
-|           |  IceVillage | -1336 | 63  | 348  |
-|           |     My Base | -1493 | 12  | 222  |
-|           |   Mycellium | 4560  | 68  | 6856 |
+|           |         IceVillage | -1336 | 63  | 348  |
+|           |            My Base | -1493 | 12  | 222  |
+|           | TGDMushroom Island | 4560  | 68  | 6856 |
 |    Nether |
-|           |  IceVillage | -161  | 77  |  43  |
-|           |     My Base | -186  | 77  |  27  |
-|           |   Mycellium |  570  | 65  | 857  |
+|           |         IceVillage | -161  | 77  |  43  |
+|           |            My Base | -186  | 77  |  27  |
+|           | TGDMushroom Island |  570  | 65  | 857  |
 
 [^ Top]
 
